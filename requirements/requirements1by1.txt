@@ -1,0 +1,20 @@
+pip install python-dotenv OR conda install -c conda-forge python-dotenv
+pip install flask
+pip install flask-socketio
+pip install pillow
+pip install openai
+pip install gTTS
+pip install pydub
+pip install SpeechRecognition
+(for cpu) pip3 install torch torchvision torchaudio
+(for gpu) pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117
+pip install soundfile
+pip install pyaudio
+pip install opencv-python
+pip install pandas
+pip install pyyaml
+pip install matplotlib
+pip install seaborn
+conda install scipy
+pip install chardet
+
